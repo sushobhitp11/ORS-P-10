@@ -1,0 +1,9 @@
+footer{
+    position: fixed;
+    
+    bottom: 0px;
+    height: 40px;
+    width: 100%;
+    z-index: 1000; /* Ensure it's above other content */
+
+}
